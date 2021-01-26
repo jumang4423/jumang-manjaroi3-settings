@@ -1,0 +1,133 @@
+/home/jumang4423/.profile: line 5: export: `/home/jumang4423/.cargo/env': not a valid identifier
+(INFO-961 addon.c:151) Load Addon Config File:fcitx-classic-ui.conf
+(INFO-961 addon.c:151) Load Addon Config File:fcitx-kimpanel-ui.conf
+(INFO-961 addon.c:151) Load Addon Config File:fcitx-ipc.conf
+(INFO-961 addon.c:151) Load Addon Config File:fcitx-xkb.conf
+(INFO-961 addon.c:151) Load Addon Config File:fcitx-dbus.conf
+(INFO-961 addon.c:151) Load Addon Config File:fcitx-spell.conf
+(INFO-961 addon.c:151) Load Addon Config File:fcitx-keyboard.conf
+/bin/sh: line 1: ff-theme-util: command not found
+(INFO-961 addon.c:151) Load Addon Config File:fcitx-fullwidth-char.conf
+(INFO-961 addon.c:151) Load Addon Config File:fcitx-xkbdbus.conf
+[libi3] ERROR: Xft.dpi = 115h is an invalid number and couldn't be parsed.
+(INFO-961 addon.c:151) Load Addon Config File:fcitx-autoeng.conf
+(INFO-961 addon.c:151) Load Addon Config File:fcitx-vk.conf
+(INFO-961 addon.c:151) Load Addon Config File:fcitx-chttrans.conf
+(INFO-961 addon.c:151) Load Addon Config File:fcitx-pinyin-enhance.conf
+(INFO-961 addon.c:151) Load Addon Config File:fcitx-x11.conf
+(INFO-961 addon.c:151) Load Addon Config File:fcitx-unicode.conf
+(INFO-961 addon.c:151) Load Addon Config File:fcitx-notificationitem.conf
+(INFO-961 addon.c:151) Load Addon Config File:fcitx-pinyin.conf
+(INFO-961 addon.c:151) Load Addon Config File:fcitx-xim.conf
+(INFO-961 addon.c:151) Load Addon Config File:fcitx-clipboard.conf
+(INFO-961 addon.c:151) Load Addon Config File:fcitx-freedesktop-notify.conf
+(INFO-961 addon.c:151) Load Addon Config File:fcitx-quickphrase.conf
+(INFO-961 addon.c:151) Load Addon Config File:fcitx-table.conf
+(INFO-961 addon.c:151) Load Addon Config File:fcitx-remote-module.conf
+(INFO-961 addon.c:151) Load Addon Config File:fcitx-imselector.conf
+(INFO-961 addon.c:151) Load Addon Config File:fcitx-punc.conf
+(INFO-961 addon.c:151) Load Addon Config File:fcitx-qw.conf
+(INFO-961 addon.c:151) Load Addon Config File:fcitx-mozc.conf
+(INFO-961 addon.c:151) Load Addon Config File:fcitx-ipcportal.conf
+Gtk-Message: 20:08:06.637: Failed to load module "xapp-gtk3-module"
+i3status: trying to auto-detect output_format setting
+i3status: auto-detected "i3bar"
+
+** (process:961): WARNING **: 20:08:06.674: Error loading plugin: libnuspell.so.4: cannot open shared object file: No such file or directory
+
+
+** (process:961): WARNING **: 20:08:06.675: Error loading plugin: libvoikko.so.1: cannot open shared object file: No such file or directory
+
+
+** (process:961): WARNING **: 20:08:06.676: Error loading plugin: libhunspell-1.7.so.0: cannot open shared object file: No such file or directory
+
+
+** (process:961): WARNING **: 20:08:06.676: Error loading plugin: libhspell.so.0: cannot open shared object file: No such file or directory
+
+
+** (process:961): WARNING **: 20:08:06.677: Error loading plugin: libaspell.so.15: cannot open shared object file: No such file or directory
+
+Gtk-Message: 20:08:06.678: Failed to load module "xapp-gtk3-module"
+conky: desktop window (6ab) is root window
+conky: window type - override
+conky: drawing to created window (0x1400001)
+conky: drawing to double buffer
+conky: forked to background, pid is 1026
+
+(WARN-961 xkb.c:265) Could not get group layout from X property
+(ERROR-961 ime.c:432) fcitx-keyboard-cm-mmuock already exists
+(WARN-961 xkb.c:265) Could not get group layout from X property
+/bin/sh: line 1: picom: command not found
+[1630:1630:0125/200819.680746:ERROR:sandbox_linux.cc(374)] InitializeSandbox() called with multiple threads in process gpu-process.
+[1606:1606:0125/200820.164704:ERROR:sharing_service.cc(218)] Device registration failed with fatal error
+** Message: 20:08:36.995: updates_checker.vala:64: check updates
+** Message: 20:09:42.580: updates_checker.vala:94: 337 updates found
+[1606:1606:0125/201107.664535:ERROR:CONSOLE(1)] "[Shields]: Can't request shields panel data. Error: No tab url specified", source: chrome-extension://mnojpmjdmbbfmejpflffifhffcmidifd/out/brave_extension_background.bundle.js (1)
+[1606:1606:0125/201107.665102:ERROR:CONSOLE(1)] "[Shields]: Can't request shields panel data. Error: No tab url specified", source: chrome-extension://mnojpmjdmbbfmejpflffifhffcmidifd/out/brave_extension_background.bundle.js (1)
+[1606:1606:0125/201107.719131:ERROR:CONSOLE(0)] "Unchecked runtime.lastError: Cannot access contents of url "chrome://newtab/". Extension manifest must request permission to access this host.", source: chrome-extension://mnojpmjdmbbfmejpflffifhffcmidifd/_generated_background_page.html (0)
+Fontconfig error: Cannot load default config file: No such file: (null)
+Fontconfig error: Cannot load default config file: No such file: (null)
+[1606:1606:0125/202015.830492:ERROR:CONSOLE(1)] "Greaselion error: Invalid screen name", source: chrome-extension://mnojpmjdmbbfmejpflffifhffcmidifd/out/brave_extension_background.bundle.js (1)
+[1606:1606:0125/202015.923837:ERROR:CONSOLE(1)] "Greaselion error: Invalid screen name", source: chrome-extension://mnojpmjdmbbfmejpflffifhffcmidifd/out/brave_extension_background.bundle.js (1)
+[1606:2598:0125/212740.806138:ERROR:get_updates_processor.cc(256)] PostClientToServerMessage() failed during GetUpdates with error 2
+[1606:1626:0125/215147.632357:ERROR:get_updates_processor.cc(256)] PostClientToServerMessage() failed during GetUpdates with error 2
+[1606:1606:0125/223014.723029:ERROR:CONSOLE(1)] "Uncaught TypeError: Error in invocation of braveShields.hiddenClassIdSelectors(array classes, array ids, array exceptions, function callback): Error at parameter 'ids': Error at index 0: Invalid type: expected string, found object.", source: chrome-extension://mnojpmjdmbbfmejpflffifhffcmidifd/out/brave_extension_background.bundle.js (1)
+Fontconfig error: Cannot load default config file: No such file: (null)
+[1606:1606:0125/223030.970119:ERROR:CONSOLE(1)] "[Shields]: Can't request shields panel data. Error: No tab url specified", source: chrome-extension://mnojpmjdmbbfmejpflffifhffcmidifd/out/brave_extension_background.bundle.js (1)
+[1606:1606:0125/223030.975836:ERROR:CONSOLE(1)] "[Shields]: Can't request shields panel data. Error: No tab url specified", source: chrome-extension://mnojpmjdmbbfmejpflffifhffcmidifd/out/brave_extension_background.bundle.js (1)
+[1606:1606:0125/223031.001443:ERROR:CONSOLE(0)] "Unchecked runtime.lastError: Cannot access contents of url "chrome://newtab/". Extension manifest must request permission to access this host.", source: chrome-extension://mnojpmjdmbbfmejpflffifhffcmidifd/_generated_background_page.html (0)
+Fontconfig error: Cannot load default config file: No such file: (null)
+[1606:2745:0125/223131.265630:ERROR:get_updates_processor.cc(256)] PostClientToServerMessage() failed during GetUpdates with error 2
+[1606:1606:0125/223146.191830:ERROR:CONSOLE(1)] "[Shields]: Can't request shields panel data. Error: No tab url specified", source: chrome-extension://mnojpmjdmbbfmejpflffifhffcmidifd/out/brave_extension_background.bundle.js (1)
+[1606:1606:0125/223146.192200:ERROR:CONSOLE(1)] "[Shields]: Can't request shields panel data. Error: No tab url specified", source: chrome-extension://mnojpmjdmbbfmejpflffifhffcmidifd/out/brave_extension_background.bundle.js (1)
+[1606:1606:0125/223146.248756:ERROR:CONSOLE(0)] "Unchecked runtime.lastError: Cannot access contents of url "chrome://newtab/". Extension manifest must request permission to access this host.", source: chrome-extension://mnojpmjdmbbfmejpflffifhffcmidifd/_generated_background_page.html (0)
+nm-applet-Message: 22:39:34.821: No keyring secrets found for Buffalo-G-47E0/802-11-wireless-security; asking user.
+nm-applet-Message: 22:40:06.491: No keyring secrets found for Buffalo-G-47E0/802-11-wireless-security; asking user.
+nm-applet-Message: 22:41:15.748: No keyring secrets found for Buffalo-G-47E0/802-11-wireless-security; asking user.
+[5463:5463:0125/224315.578154:ERROR:sandbox_linux.cc(374)] InitializeSandbox() called with multiple threads in process gpu-process.
+[5435:5435:0125/224315.740236:ERROR:sharing_service.cc(218)] Device registration failed with fatal error
+[5435:5435:0125/224315.745660:ERROR:CONSOLE(0)] "Unrecognized Content-Security-Policy directive 'defaultframe-ancestors'.
+", source: chrome://newtab/ (0)
+[5435:5456:0125/224315.778324:ERROR:get_updates_processor.cc(256)] PostClientToServerMessage() failed during GetUpdates with error 2
+Failed to parse JSON adblock resources: EOF while parsing a value at line 1 column 0
+[5435:5435:0125/224318.245677:ERROR:brave_referrals_service.cc(224)] Failed to fetch headers from referral server, error: -106, response code: -1, payload: , url: https://laptop-updates.brave.com/promo/custom-headers
+Fontconfig error: Cannot load default config file: No such file: (null)
+[5435:5435:0125/224324.755905:ERROR:CONSOLE(1)] "[Shields]: Can't request shields panel data. Error: No tab url specified", source: chrome-extension://mnojpmjdmbbfmejpflffifhffcmidifd/out/brave_extension_background.bundle.js (1)
+[5435:5435:0125/224324.756546:ERROR:CONSOLE(1)] "[Shields]: Can't request shields panel data. Error: No tab url specified", source: chrome-extension://mnojpmjdmbbfmejpflffifhffcmidifd/out/brave_extension_background.bundle.js (1)
+[5435:5435:0125/224324.808056:ERROR:CONSOLE(0)] "Unchecked runtime.lastError: Cannot access contents of url "chrome://newtab/". Extension manifest must request permission to access this host.", source: chrome-extension://mnojpmjdmbbfmejpflffifhffcmidifd/_generated_background_page.html (0)
+Fontconfig error: Cannot load default config file: No such file: (null)
+[5435:5654:0125/224431.244797:ERROR:get_updates_processor.cc(256)] PostClientToServerMessage() failed during GetUpdates with error 2
+nm-applet-Message: 00:05:15.568: No keyring secrets found for Buffalo-G-47E0/802-11-wireless-security; asking user.
+[7435:7435:0126/004500.566233:ERROR:sandbox_linux.cc(374)] InitializeSandbox() called with multiple threads in process gpu-process.
+[7405:7405:0126/004500.858179:ERROR:sharing_service.cc(218)] Device registration failed with fatal error
+[7405:7622:0126/004501.100874:ERROR:get_updates_processor.cc(256)] PostClientToServerMessage() failed during GetUpdates with error 2
+[7405:7405:0126/004503.237994:ERROR:brave_referrals_service.cc(224)] Failed to fetch headers from referral server, error: -106, response code: -1, payload: , url: https://laptop-updates.brave.com/promo/custom-headers
+nm-applet-Message: 00:45:03.763: No keyring secrets found for Buffalo-G-47E0/802-11-wireless-security; asking user.
+[7405:7405:0126/004606.487803:ERROR:CONSOLE(1)] "Uncaught TypeError: Error in invocation of braveShields.hiddenClassIdSelectors(array classes, array ids, array exceptions, function callback): Error at parameter 'ids': Error at index 0: Invalid type: expected string, found object.", source: chrome-extension://mnojpmjdmbbfmejpflffifhffcmidifd/out/brave_extension_background.bundle.js (1)
+Fontconfig error: Cannot load default config file: No such file: (null)
+[7405:7405:0126/004633.138171:ERROR:CONSOLE(1)] "Uncaught TypeError: Error in invocation of braveShields.hiddenClassIdSelectors(array classes, array ids, array exceptions, function callback): Error at parameter 'ids': Error at index 0: Invalid type: expected string, found object.", source: chrome-extension://mnojpmjdmbbfmejpflffifhffcmidifd/out/brave_extension_background.bundle.js (1)
+[7405:7405:0126/004633.857703:ERROR:CONSOLE(1)] "Uncaught TypeError: Error in invocation of braveShields.hiddenClassIdSelectors(array classes, array ids, array exceptions, function callback): Error at parameter 'ids': Error at index 0: Invalid type: expected string, found object.", source: chrome-extension://mnojpmjdmbbfmejpflffifhffcmidifd/out/brave_extension_background.bundle.js (1)
+[7405:7405:0126/004634.067144:ERROR:CONSOLE(1)] "Uncaught TypeError: Error in invocation of braveShields.hiddenClassIdSelectors(array classes, array ids, array exceptions, function callback): Error at parameter 'ids': Error at index 0: Invalid type: expected string, found object.", source: chrome-extension://mnojpmjdmbbfmejpflffifhffcmidifd/out/brave_extension_background.bundle.js (1)
+[7405:7405:0126/004656.468523:ERROR:CONSOLE(1)] "Uncaught TypeError: Error in invocation of braveShields.hiddenClassIdSelectors(array classes, array ids, array exceptions, function callback): Error at parameter 'ids': Error at index 0: Invalid type: expected string, found object.", source: chrome-extension://mnojpmjdmbbfmejpflffifhffcmidifd/out/brave_extension_background.bundle.js (1)
+[7405:7405:0126/004656.556259:ERROR:CONSOLE(1)] "Uncaught TypeError: Error in invocation of braveShields.hiddenClassIdSelectors(array classes, array ids, array exceptions, function callback): Error at parameter 'ids': Error at index 0: Invalid type: expected string, found object.", source: chrome-extension://mnojpmjdmbbfmejpflffifhffcmidifd/out/brave_extension_background.bundle.js (1)
+[7405:7405:0126/004656.644588:ERROR:CONSOLE(1)] "Uncaught TypeError: Error in invocation of braveShields.hiddenClassIdSelectors(array classes, array ids, array exceptions, function callback): Error at parameter 'ids': Error at index 0: Invalid type: expected string, found object.", source: chrome-extension://mnojpmjdmbbfmejpflffifhffcmidifd/out/brave_extension_background.bundle.js (1)
+[7405:7405:0126/004727.074845:ERROR:CONSOLE(1)] "Uncaught TypeError: Error in invocation of braveShields.hiddenClassIdSelectors(array classes, array ids, array exceptions, function callback): Error at parameter 'ids': Error at index 0: Invalid type: expected string, found object.", source: chrome-extension://mnojpmjdmbbfmejpflffifhffcmidifd/out/brave_extension_background.bundle.js (1)
+[7405:7405:0126/004727.971665:ERROR:CONSOLE(1)] "Uncaught TypeError: Error in invocation of braveShields.hiddenClassIdSelectors(array classes, array ids, array exceptions, function callback): Error at parameter 'ids': Error at index 0: Invalid type: expected string, found object.", source: chrome-extension://mnojpmjdmbbfmejpflffifhffcmidifd/out/brave_extension_background.bundle.js (1)
+[7405:7405:0126/004808.911531:ERROR:CONSOLE(1)] "Uncaught TypeError: Error in invocation of braveShields.hiddenClassIdSelectors(array classes, array ids, array exceptions, function callback): Error at parameter 'ids': Error at index 0: Invalid type: expected string, found object.", source: chrome-extension://mnojpmjdmbbfmejpflffifhffcmidifd/out/brave_extension_background.bundle.js (1)
+[7405:7405:0126/004809.064974:ERROR:CONSOLE(1)] "Uncaught TypeError: Error in invocation of braveShields.hiddenClassIdSelectors(array classes, array ids, array exceptions, function callback): Error at parameter 'ids': Error at index 0: Invalid type: expected string, found object.", source: chrome-extension://mnojpmjdmbbfmejpflffifhffcmidifd/out/brave_extension_background.bundle.js (1)
+[7405:7405:0126/004809.130639:ERROR:CONSOLE(1)] "Uncaught TypeError: Error in invocation of braveShields.hiddenClassIdSelectors(array classes, array ids, array exceptions, function callback): Error at parameter 'ids': Error at index 0: Invalid type: expected string, found object.", source: chrome-extension://mnojpmjdmbbfmejpflffifhffcmidifd/out/brave_extension_background.bundle.js (1)
+[7405:7405:0126/004831.919923:ERROR:CONSOLE(1)] "Uncaught TypeError: Error in invocation of braveShields.hiddenClassIdSelectors(array classes, array ids, array exceptions, function callback): Error at parameter 'ids': Error at index 0: Invalid type: expected string, found object.", source: chrome-extension://mnojpmjdmbbfmejpflffifhffcmidifd/out/brave_extension_background.bundle.js (1)
+[7405:7405:0126/004900.448541:ERROR:CONSOLE(1)] "Uncaught TypeError: Error in invocation of braveShields.hiddenClassIdSelectors(array classes, array ids, array exceptions, function callback): Error at parameter 'ids': Error at index 0: Invalid type: expected string, found object.", source: chrome-extension://mnojpmjdmbbfmejpflffifhffcmidifd/out/brave_extension_background.bundle.js (1)
+[7405:7405:0126/005128.947361:ERROR:CONSOLE(1)] "[Shields]: Can't request shields panel data. Error: No tab url specified", source: chrome-extension://mnojpmjdmbbfmejpflffifhffcmidifd/out/brave_extension_background.bundle.js (1)
+[7405:7405:0126/005128.951653:ERROR:CONSOLE(1)] "[Shields]: Can't request shields panel data. Error: No tab url specified", source: chrome-extension://mnojpmjdmbbfmejpflffifhffcmidifd/out/brave_extension_background.bundle.js (1)
+[7405:7405:0126/005129.003158:ERROR:CONSOLE(0)] "Unchecked runtime.lastError: Cannot access contents of url "chrome://newtab/". Extension manifest must request permission to access this host.", source: chrome-extension://mnojpmjdmbbfmejpflffifhffcmidifd/_generated_background_page.html (0)
+[7405:7531:0126/005132.562616:ERROR:get_updates_processor.cc(256)] PostClientToServerMessage() failed during GetUpdates with error 2
+[10254:10254:0126/201813.411118:ERROR:sandbox_linux.cc(374)] InitializeSandbox() called with multiple threads in process gpu-process.
+[10226:10226:0126/201813.573178:ERROR:sharing_service.cc(218)] Device registration failed with fatal error
+[10226:10271:0126/201813.581227:ERROR:get_updates_processor.cc(256)] PostClientToServerMessage() failed during GetUpdates with error 2
+[10226:10226:0126/201813.582851:ERROR:CONSOLE(0)] "Unrecognized Content-Security-Policy directive 'defaultframe-ancestors'.
+", source: chrome://newtab/ (0)
+Failed to parse JSON adblock resources: EOF while parsing a value at line 1 column 0
+[10226:10226:0126/201816.078989:ERROR:brave_referrals_service.cc(224)] Failed to fetch headers from referral server, error: -106, response code: -1, payload: , url: https://laptop-updates.brave.com/promo/custom-headers
+Fontconfig error: Cannot load default config file: No such file: (null)
+[10226:10455:0126/201929.088792:ERROR:get_updates_processor.cc(256)] PostClientToServerMessage() failed during GetUpdates with error 2

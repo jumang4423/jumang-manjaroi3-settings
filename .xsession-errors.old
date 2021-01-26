@@ -1,0 +1,83 @@
+/home/jumang4423/.profile: line 5: export: `/home/jumang4423/.cargo/env': not a valid identifier
+(INFO-1014 addon.c:151) Load Addon Config File:fcitx-classic-ui.conf
+(INFO-1014 addon.c:151) Load Addon Config File:fcitx-kimpanel-ui.conf
+/bin/sh: line 1: ff-theme-util: command not found
+(INFO-1014 addon.c:151) Load Addon Config File:fcitx-ipc.conf
+(INFO-1014 addon.c:151) Load Addon Config File:fcitx-xkb.conf
+(INFO-1014 addon.c:151) Load Addon Config File:fcitx-dbus.conf
+(INFO-1014 addon.c:151) Load Addon Config File:fcitx-spell.conf
+[libi3] ERROR: Xft.dpi = 115h is an invalid number and couldn't be parsed.
+(INFO-1014 addon.c:151) Load Addon Config File:fcitx-keyboard.conf
+(INFO-1014 addon.c:151) Load Addon Config File:fcitx-fullwidth-char.conf
+(INFO-1014 addon.c:151) Load Addon Config File:fcitx-xkbdbus.conf
+(INFO-1014 addon.c:151) Load Addon Config File:fcitx-autoeng.conf
+(INFO-1014 addon.c:151) Load Addon Config File:fcitx-vk.conf
+(INFO-1014 addon.c:151) Load Addon Config File:fcitx-chttrans.conf
+(INFO-1014 addon.c:151) Load Addon Config File:fcitx-pinyin-enhance.conf
+(INFO-1014 addon.c:151) Load Addon Config File:fcitx-x11.conf
+(INFO-1014 addon.c:151) Load Addon Config File:fcitx-unicode.conf
+(INFO-1014 addon.c:151) Load Addon Config File:fcitx-notificationitem.conf
+(INFO-1014 addon.c:151) Load Addon Config File:fcitx-pinyin.conf
+(INFO-1014 addon.c:151) Load Addon Config File:fcitx-xim.conf
+(INFO-1014 addon.c:151) Load Addon Config File:fcitx-clipboard.conf
+(INFO-1014 addon.c:151) Load Addon Config File:fcitx-freedesktop-notify.conf
+(INFO-1014 addon.c:151) Load Addon Config File:fcitx-quickphrase.conf
+(INFO-1014 addon.c:151) Load Addon Config File:fcitx-table.conf
+(INFO-1014 addon.c:151) Load Addon Config File:fcitx-remote-module.conf
+(INFO-1014 addon.c:151) Load Addon Config File:fcitx-imselector.conf
+(INFO-1014 addon.c:151) Load Addon Config File:fcitx-punc.conf
+(INFO-1014 addon.c:151) Load Addon Config File:fcitx-qw.conf
+(INFO-1014 addon.c:151) Load Addon Config File:fcitx-mozc.conf
+(INFO-1014 addon.c:151) Load Addon Config File:fcitx-ipcportal.conf
+Gtk-Message: 19:47:40.498: Failed to load module "xapp-gtk3-module"
+i3status: trying to auto-detect output_format setting
+i3status: auto-detected "i3bar"
+Gtk-Message: 19:47:40.578: Failed to load module "xapp-gtk3-module"
+
+** (process:1014): WARNING **: 19:47:40.582: Error loading plugin: libnuspell.so.4: cannot open shared object file: No such file or directory
+
+
+** (process:1014): WARNING **: 19:47:40.583: Error loading plugin: libvoikko.so.1: cannot open shared object file: No such file or directory
+
+
+** (process:1014): WARNING **: 19:47:40.586: Error loading plugin: libhunspell-1.7.so.0: cannot open shared object file: No such file or directory
+
+
+** (process:1014): WARNING **: 19:47:40.587: Error loading plugin: libhspell.so.0: cannot open shared object file: No such file or directory
+
+
+** (process:1014): WARNING **: 19:47:40.599: Error loading plugin: libaspell.so.15: cannot open shared object file: No such file or directory
+
+conky: desktop window (6ab) is root window
+conky: window type - override
+conky: drawing to created window (0x1800001)
+conky: drawing to double buffer
+conky: forked to background, pid is 1093
+
+(WARN-1014 xkb.c:265) Could not get group layout from X property
+(ERROR-1014 ime.c:432) fcitx-keyboard-cm-mmuock already exists
+(WARN-1014 xkb.c:265) Could not get group layout from X property
+/bin/sh: line 1: picom: command not found
+** Message: 19:48:11.998: updates_checker.vala:64: check updates
+** Message: 19:48:12.439: updates_checker.vala:94: 0 updates found
+nm-applet-Message: 19:49:43.719: No keyring secrets found for msms_house_5GHz/802-11-wireless-security; asking user.
+[1843:1843:0122/195002.858001:ERROR:sandbox_linux.cc(374)] InitializeSandbox() called with multiple threads in process gpu-process.
+[1818:1818:0122/195000.442361:ERROR:sharing_service.cc(218)] Device registration failed with fatal error
+Failed to parse JSON adblock resources: EOF while parsing a value at line 1 column 0
+[1818:2545:0125/015854.593372:ERROR:get_updates_processor.cc(256)] PostClientToServerMessage() failed during GetUpdates with error 2
+i3status: exiting due to signal.
+conky: received SIGHUP, SIGINT, or SIGTERM to terminate. bye!
+=========================
+FCITX 4.2.9.7 -- Get Signal No.: 15
+Date: try "date -d @1611507537" if you are using GNU date ***
+ProcessID: 1014
+fcitx(+0x164b)[0x558ac325364b]
+/usr/lib/libc.so.6(+0x3d6a0)[0x7fc1cf5f16a0]
+fcitx(+0x1290)[0x558ac3253290]
+/usr/lib/libc.so.6(+0x3d6a0)[0x7fc1cf5f16a0]
+/usr/lib/libc.so.6(__select+0x1a)[0x7fc1cf6abb2a]
+/usr/lib/libfcitx-core.so.0(+0x9950)[0x7fc1cf7d5950]
+/usr/lib/libfcitx-core.so.0(FcitxInstanceRun+0x57)[0x7fc1cf7d5db7]
+fcitx(+0x113e)[0x558ac325313e]
+/usr/lib/libc.so.6(__libc_start_main+0xf2)[0x7fc1cf5dc152]
+fcitx(+0x11be)[0x558ac32531be]
